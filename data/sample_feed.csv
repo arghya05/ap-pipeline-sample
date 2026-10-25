@@ -1,0 +1,4 @@
+invoice_id,vendor,due_date,amount,paid
+INV-1,V-100,2026-09-01,120.00,false
+INV-2,V-200,2026-10-01,80.50,true
+INV-3,V-100,not-a-date,10.00,false
